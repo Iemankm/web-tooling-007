@@ -1,5 +1,5 @@
 import React from "react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 const App = () => {
   const [amount, setAmount] = useState(0);
